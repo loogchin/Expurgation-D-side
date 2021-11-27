@@ -1,0 +1,86 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				127,20
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EX Tricky LEFT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,-340
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EX DOWN"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0, 100
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EX Tricky Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-209,-29
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EX Tricky RIGHT 0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "EX Idle"
+		}
+		,
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Hank",
+			"loop": false,
+			"name": "Hank"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EXTRICKY",
+	"position": [
+		-250,
+		-365
+	],
+	"healthicon": "trickyEx",
+	"flip_x": false,
+	"healthbar_colors": [
+		63,
+		255,
+		159
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
